@@ -1,5 +1,4 @@
-# m3u8dl
-google translate ip validity verification
+# google translate ip validity verification
 
 
 example：
