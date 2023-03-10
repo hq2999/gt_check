@@ -16,7 +16,7 @@ gt_check ip1 ip2 ip3 ....
 
 ![image](https://user-images.githubusercontent.com/11746715/224201611-7390b007-fa1a-4a7d-b4b2-96e68323f378.png)
 
-- select an ip with a delay of less than 300ms
+- select some ip with a delay of less than 300ms
 
 - edit hosts file (C:\Windows\System32\drivers\etc\hosts)
 
